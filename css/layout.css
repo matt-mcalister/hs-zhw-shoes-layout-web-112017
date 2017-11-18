@@ -24,6 +24,15 @@
 
 /* Posititoning Classes */
 
+#three-shoes {
+  display: table;
+  width: 100%;
+}
+
+#featured-archive {
+  display: table;
+  width: 100%;
+}
 
 .foot {
   display: table;
@@ -57,3 +66,4 @@
 .first {
   margin-left: 0%;
 }
+
