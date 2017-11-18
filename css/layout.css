@@ -35,19 +35,17 @@
 .col-1 {
   float: left;
   width: 32%;
-  /*display: table-cell;*/
-  /*margin-bottom: 2%;*/
-  /*height: inherit;*/
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  /*display: table-cell;*/
-  /*margin-bottom: 2%;*/
-  /*height: inherit;;*/
 }
 
+.col-3 {
+  float: left;
+  width: 100%;
+}
 
 [class*="col-"] {
   margin-left: 2%;
