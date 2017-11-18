@@ -50,3 +50,7 @@
 .first {
   margin-left: 0%;
 }
+
+#three-shoes {
+  clear: both;
+}
