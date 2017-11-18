@@ -37,6 +37,7 @@
   float: left;
   width: 66%;
   background: #ccc;
+  display: inline-block;
 }
 
 .col-3 {
