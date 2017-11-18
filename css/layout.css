@@ -52,11 +52,11 @@
 }
 
 #three-shoes {
-  clear: both;
-  display: flex;
+  display: table;
+  width: 100%;
 }
 
 #featured-archive {
-  display: flex;
-  margin-bottom: 10em;
+  display: table;
+  width: 100%;
 }
