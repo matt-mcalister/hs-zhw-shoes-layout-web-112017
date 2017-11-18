@@ -30,6 +30,7 @@
   float: left;
   width: 32%;
   background: #ccc;
+  display: table-cell
 }
 
 .col-2 {
