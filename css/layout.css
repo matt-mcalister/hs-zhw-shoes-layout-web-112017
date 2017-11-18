@@ -46,7 +46,7 @@
   background: #ccc;
   display: table-cell;
   margin-bottom: 2%;
-  height: auto;
+  height: 100%;
 }
 
 .col-2 {
@@ -55,7 +55,7 @@
   background: #ccc;
   display: table-cell;
   margin-bottom: 2%;
-  height: auto;
+  height: 100%;
 }
 
 .col-3 {
