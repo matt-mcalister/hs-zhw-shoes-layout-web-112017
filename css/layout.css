@@ -55,8 +55,9 @@
 
 #three-shoes {
   clear: both;
+  display: flex;
 }
 
-/*#featured-archive {
-  margin-bottom: 20px;
-}*/
+#featured-archive {
+  display: flex;
+}
