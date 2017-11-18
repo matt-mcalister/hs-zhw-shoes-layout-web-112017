@@ -24,12 +24,8 @@
 
 /* Posititoning Classes */
 
-#three-shoes {
-  display: flex;
-  width: 100%;
-}
 
-#featured-archive {
+#subsection {
   display: flex;;
   width: 100%;
   margin-bottom: 2%;
