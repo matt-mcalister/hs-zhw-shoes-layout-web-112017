@@ -25,15 +25,10 @@
 /* Posititoning Classes */
 
 
-#subsection {
+.subsection {
   display: flex;;
   width: 100%;
   margin-bottom: 2%;
-}
-
-.foot {
-  display: table;
-  width: 100%;
 }
 
 
