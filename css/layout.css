@@ -32,6 +32,7 @@
 #featured-archive {
   display: table;
   width: 100%;
+  border-bottom: 30em;
 }
 
 .foot {
@@ -66,4 +67,3 @@
 .first {
   margin-left: 0%;
 }
-
