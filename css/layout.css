@@ -40,9 +40,6 @@
   display: inline-block;
 }
 
-.col-3 {
-  background: #ccc;
-}
 
 
 [class*="col-"] {
