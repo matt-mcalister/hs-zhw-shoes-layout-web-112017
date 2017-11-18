@@ -25,12 +25,12 @@
 /* Posititoning Classes */
 
 #three-shoes {
-  display: table;
+  display: flex;
   width: 100%;
 }
 
 #featured-archive {
-  display: table;
+  display: flex;;
   width: 100%;
 }
 
@@ -44,18 +44,18 @@
   float: left;
   width: 32%;
   background: #ccc;
-  display: table-cell;
+  /*display: table-cell;*/
   margin-bottom: 2%;
-  height: inherit;
+  /*height: inherit;*/
 }
 
 .col-2 {
   float: left;
   width: 66%;
   background: #ccc;
-  display: table-cell;
+  /*display: table-cell;*/
   margin-bottom: 2%;
-  height: inherit;;
+  /*height: inherit;;*/
 }
 
 .col-3 {
