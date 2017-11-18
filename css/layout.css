@@ -32,7 +32,6 @@
 #featured-archive {
   display: table;
   width: 100%;
-  margin-bottom: 2%;
 }
 
 .foot {
@@ -46,6 +45,7 @@
   width: 32%;
   background: #ccc;
   display: table-cell;
+  margin-bottom: 2%;
 }
 
 .col-2 {
